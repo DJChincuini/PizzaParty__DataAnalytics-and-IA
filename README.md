@@ -11,3 +11,5 @@ Voy a estar utilizando el dataset llamado "*Pizza Party Sales*". Este dataset re
 #### Informe EDA
 
 Primeramente voy a realizar un informe EDA (**Exploratory Data Analysis**) para adentrarme en los datos contenidos en el dataset, buscar valores **nulos** y buscar **outliers**.
+
+#### Sobre mí
