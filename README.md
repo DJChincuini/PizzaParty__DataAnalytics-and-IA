@@ -7,3 +7,7 @@ En este repositorio voy a estar analizando un datasets de ventas de un local de 
 #### Dataset
 
 Voy a estar utilizando el dataset llamado "Pizza Party Sales". Este dataset registra desde el día 01/01/2015 al 31/12/2015.
+
+#### Informe EDA
+
+Primeramente voy a realizar un informe EDA (**Exploratory Data Analysis**) para adentrarme en los datos contenidos en el dataset, buscar valores **nulos** y buscar **outliers**.
