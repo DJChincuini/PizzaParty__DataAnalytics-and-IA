@@ -6,7 +6,7 @@ En este repositorio voy a estar analizando un datasets de ventas de un local de 
 
 #### Dataset
 
-Voy a estar utilizando el dataset llamado "Pizza Party Sales". Este dataset registra desde el día 01/01/2015 al 31/12/2015.
+Voy a estar utilizando el dataset llamado "*Pizza Party Sales*". Este dataset registra desde el día **01/01/2015** al **31/12/2015**.
 
 #### Informe EDA
 
